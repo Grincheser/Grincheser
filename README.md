@@ -1,11 +1,12 @@
 <!-- Вступление -->
 <h1 align="center">Привет 👋, меня зовут [Ваше Имя]</h1>
-<h3 align="center">[Ваша должность, например: Passionate Backend Developer from Russia]</h3>
+<h3 align="center">Backend .NET Developer | ASP.NET Core Specialist</h3>
 
 <!-- Краткое описание -->
 <p align="center">
   <i>
-    Я [короткое описание о себе, например: увлеченный разработчик с фокусом на бэкенд, люблю создавать эффективные и масштабируемые приложения]. <br>
+    Увлеченный бэкенд-разработчик с фокусом на создание высокопроизводительных и масштабируемых веб-приложений. <br>
+    Специализируюсь на ASP.NET Core, микросервисной архитектуре и облачных решениях. <br>
     Всегда открыт для интересных проектов и сотрудничества!
   </i>
 </p>
@@ -15,50 +16,59 @@
 <!-- О себе -->
 ## 🤵 Обо мне
 
-- 🔭 Сейчас работаю над **[Название текущего проекта]**
-- 🌱 Сейчас изучаю **[[Технологии, которые изучаете, например: Go, Kubernetes]]**
-- 👯 Хочу colaborate над **[Тип проектов для коллаборации, например: Open-Source проектами на Python]**
-- 💬 Спросите меня о **[[Технологии, в которых сильны, например: Django, PostgreSQL, Docker]]**
+- 🔭 Сейчас работаю над **микросервисной платформой на ASP.NET Core**
+- 🌱 Сейчас изучаю **Kubernetes, Advanced Docker, Performance Optimization**
+- 👯 Хочу colaborate над **Open-Source проектами на C# и .NET**
+- 💬 Спросите меня о **ASP.NET Core, Web API, Docker, PostgreSQL**
 - 📫 Как связаться: **[your.email@example.com]**
-- ⚡ Интересный факт: **[Забавный или интересный факт о вас, например: Люблю печь хлеб и смотреть научную фантастику]**
+- ⚡ Интересный факт: **Люблю автоматизировать всё вокруг и писать чистый, поддерживаемый код**
 
 <hr>
 
 <!-- Стек технологий -->
 ## 🛠️ Мой стек технологий
 
-<!-- Иконки можно взять с https://shields.io/ и https://simpleicons.org/ -->
-
 ### **💻 Языки программирования и Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-### **🗄️ Базы данных**
+### **🗄️ Базы данных и Хранилища**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-8A2BE2?style=for-the-badge&logo=minio&logoColor=white)
 
-### **🐳 DevOps и Инструменты**
+### **🔧 Инструменты разработки**
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **🚀 DevOps и Инфраструктура**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-00A98F?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <hr>
 
-<!-- Статистика и трофеи -->
 ## 📊 Статистика GitHub
-
-<!-- Статистика может не отображаться сразу, нужно подождать или обновить страницу -->
 
 <p align="center">
   <a href="https://github.com/[YourUsername]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="[YourUsername]'s GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical&hide_border=true" alt="[YourUsername]'s Top Languages"/>
+    <!-- Основная статистика -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    
+    <!-- Топ языков -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical&hide_border=true&hide=html,css,scss,javascript" alt="Top Languages"/>
+  </a>
+</p>
+
+<!-- Полоса огоньков -->
+<p align="center">
+  <a href="https://github.com/[YourUsername]?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -70,19 +80,32 @@
 <!-- Трофеи -->
 <p align="center">
   <a href="https://github.com/[YourUsername]">
-    <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=radical&no-frame=true&row=1&margin-w=15" alt="[YourUsername]'s Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
+</p>
+
+<!-- График активности -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=[YourUsername]&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 <hr>
 
-<!-- Связь -->
 ## 📞 Свяжитесь со мной
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://t.me/[YourTelegramUsername]"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://www.linkedin.com/in/[YourLinkedInProfile]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/[YourTelegramUsername]">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/[YourLinkedInProfile]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/[YourStackOverflowID]">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
 </p>
 
 ---
