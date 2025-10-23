@@ -55,42 +55,10 @@
 
 ## 📊 Статистика GitHub
 
-<p align="center">
-  <a href="https://github.com/[YourUsername]">
-    <!-- Основная статистика -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-    
-    <!-- Топ языков -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical&hide_border=true&hide=html,css,scss,javascript" alt="Top Languages"/>
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&layout=normal&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marin322&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-<!-- Полоса огоньков -->
-<p align="center">
-  <a href="https://github.com/[YourUsername]?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical&hide_border=true&fire=DD2727&ring=DD2727" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<!-- Змея, поедающая ваш контрибьюшн -->
-<p align="center">
-  <img src="https://github.com/[YourUsername]/[YourUsername]/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<!-- Трофеи -->
-<p align="center">
-  <a href="https://github.com/[YourUsername]">
-    <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-<!-- График активности -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=[YourUsername]&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-<hr>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marin322&theme=github-dark-dimmed&background=000000&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF&card_width=1000)](https://git.io/streak-stats)
 
 ---
 
