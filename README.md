@@ -1,5 +1,5 @@
 <!-- Вступление -->
-<h1 align="center">Привет 👋, меня зовут [Ваше Имя]</h1>
+<h1 align="center">Привет 👋, меня зовут Руслан</h1>
 <h3 align="center">Backend .NET Developer | ASP.NET Core Specialist</h3>
 
 <!-- Краткое описание -->
